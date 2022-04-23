@@ -1,0 +1,27 @@
+.color {
+   display: inline-block;
+}
+#black {
+    background-color: black;
+    border: solid black 1px;
+    width: 100px;
+    padding: 80px 45px;
+}
+#pink {
+    background-color: rgb(238, 96, 120);
+    border: solid black 1px;
+    width: 100px;
+    padding: 80px 45px;
+}
+#red {
+    background-color: red;
+    border: solid black 1px;
+    width: 100px;
+    padding: 80px 45px;
+}
+#green {
+    background-color: green;
+    border: solid black 1px;
+    width: 100px;
+    padding: 80px 45px;
+}
