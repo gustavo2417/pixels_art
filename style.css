@@ -25,3 +25,15 @@
     width: 100px;
     padding: 80px 45px;
 }
+.pixel {
+    border: solid black 1px;
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    display: block;
+}
+.line-ll {
+    margin: 0px;
+    height: 40px;
+    display: inline-block;
+}
